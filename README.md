@@ -2,4 +2,6 @@
 
 ## Demo
 
-[Live Demo](https://todo-list-6341b.web.app/)
+[Live Demo - Firebase](https://todo-list-6341b.web.app/)
+
+[Live Demo - Netlify](https://kodluyoruz-todo.netlify.app/)
